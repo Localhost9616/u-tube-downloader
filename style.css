@@ -72,6 +72,9 @@ header{
 ol,ul{
     width: 80%;
 }
+header>h1{
+    font-size: 21px;
+}
 .box>img{
     height: 50px;
 }
