@@ -8,7 +8,7 @@ body{
     border: 2px solid black;
     font-family: 'Libre Baskerville', serif;
     box-sizing: border-box;
-    background-image: url('Images/drew-beamer-5DD7-L4A4Uw-unsplash.jpg;
+/*     background-image: url('Images/drew-beamer-5DD7-L4A4Uw-unsplash.jpg; */
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("Images/1653475951087.jpg");
     background-position: center;
     background-repeat: no-repeat;
