@@ -1,7 +1,7 @@
 
 const download=(link, format) =>{
     console.log("running2");
-    document.querySelector('button').innerHTML=('<iframe style="height: 50px; border:none; overflow:hidden;" src="https://loader.to/api/button/?url='+ link + '&f=' + format + '"></iframe>');
+    document.querySelector('button').innerHTML=('<iframe style="height: 50px;background-color:red; border:none; overflow:hidden;" src="https://loader.to/api/button/?url='+ link + '&f=' + format + '"></iframe>');
 }
 document.querySelector('button').addEventListener("click", ()=>{
     console.log("running");
